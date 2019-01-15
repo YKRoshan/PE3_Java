@@ -1,4 +1,9 @@
-package com.company;
+/*
+*  Write a program that will generate exceptions of type NegativeArraySizeException,
+*  IndexOutOfBoundsException, NullPointerException. Record the catching of each exception
+*  by displaying the message stored in the exception object.
+ * */
+package com.stackroute.pe3;
 
 public class ThrowExceptionClass {
     public static void main(String[]args){
